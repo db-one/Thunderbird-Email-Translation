@@ -118,7 +118,8 @@
     "<all_urls>",
     "storage",
     "activeTab",
-    "contextMenus",
+    "Menus",
+    "messagesModify",
     "webRequest",
     "webRequestBlocking"
   ],

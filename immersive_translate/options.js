@@ -45493,7 +45493,7 @@ ${s}}
       let r = Pe(e.interfaceLanguage, `browser.${t.id}`, {
         targetLanguage: Ot(e.targetLanguage, e.interfaceLanguage, !1, !0),
       });
-      j.contextMenus.update(t.id, { title: r, visible: n });
+      j.Menus.update(t.id, { title: r, visible: n });
     }
   }
   async function Ys({ targetLanguage: e, text: t }) {
@@ -45515,12 +45515,12 @@ ${s}}
       let u = Ra(n.shortcuts.toggleTranslatePage);
       u && (i += `(${u})`), (PC = "");
     }
-    j.contextMenus.update(r, { title: i, visible: a });
+    j.Menus.update(r, { title: i, visible: a });
   }
   async function Fo() {
     try {
       let e = await LC();
-      j.contextMenus.update(el, { visible: e });
+      j.Menus.update(el, { visible: e });
     } catch {}
   }
   function RC(e, t) {
