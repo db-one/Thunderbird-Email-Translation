@@ -75,7 +75,7 @@ Thunderbird 是开源免费的邮件客户端，注重隐私、界面清爽、�
 
 </details>
 
-### 改background文件
+### 修改background文件
 
 - 搜索`browser_action`
 
