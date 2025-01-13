@@ -117,11 +117,11 @@ async function registerMsgDisplayScript() {
 
 - 将`"contextMenus",`
 
-- 中的`context`删掉
+- 删掉其中的`context`
 
 - 更改为`"Menus",`  
 
-- 在`"Menus",` 下面一行添加新的代码
+- `"Menus",` 下面一行添加新的代码
 
 - `"messagesModify",`
 
