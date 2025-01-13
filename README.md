@@ -29,7 +29,7 @@ Thunderbird 是开源免费的邮件客户端，注重隐私、界面清爽、�
 
 ## 直接安装插件
 
-- 在右侧 Releases 中下载插件，或点击链接进入下载页面:<a href="https://github.com/XcelVast/desktop-tutorial/releases/tag/immersive-translate-ThunDerbird" target="_blank">Releases</a>
+- 在右侧 Releases 中下载插件，或点击链接进入下载页面:<a href="https://github.com/YGGYDW/Thunderbird-Email-Translation/releases/tag/immersive-translate-ThunDerbird" target="_blank">Releases</a>
 
 - 下载完后跳过第二步，[直接看第三步](#安装步骤)。
 
