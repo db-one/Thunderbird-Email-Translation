@@ -18,9 +18,9 @@ Thunderbird 是开源免费的邮件客户端，注重隐私、界面清爽、�
   - [下载插件](#沉浸式翻译官方下载Firefox插件)
   - [更改扩展名](#将下载后的文件扩展名xpi更改为zip后解压缩)
   - [要修改的文件](#找到压缩包内以下三个文件)
-  - [修改 background.js](#修改background.js)
-  - [修改 manifest.json](#修改manifest.json)
-  - [修改 options.js](#修改options.js)
+  - [修改background.js](#修改background.js)
+  - [修改manifest.json](#修改manifest.json)
+  - [修改options.js](#修改options.js)
   - [参考原代码修改差异](#参考原代码修改差异)
   - [重新打包](#根目录从新打成压缩包)
 - [安装步骤](#安装步骤)
@@ -37,7 +37,7 @@ Thunderbird 是开源免费的邮件客户端，注重隐私、界面清爽、�
 
 ## 手动修改文件代码
 
-### 浸式翻译官方下载Firefox插件
+### 沉浸式翻译官方下载Firefox插件
 
 <a href="https://immersivetranslate.com/zh-Hans/" target="_blank">下载</a>
 
