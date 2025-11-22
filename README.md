@@ -87,10 +87,10 @@ Thunderbird 是开源免费的邮件客户端，注重隐私、界面清爽、�
 
 - （此处共 1 处需要修改）
 
-- 搜索所有`f.contextMenus`  
+- 搜索所有`k.contextMenus`  
 
 - 删除`context`
-- 更改为`f.Menus`
+- 更改为`k.Menus`
 - (此处共 6 处需要修改)
 
 - 添加以下代码在【主体】结尾处：
